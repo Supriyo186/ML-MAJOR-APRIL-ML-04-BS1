@@ -1,1 +1,1 @@
-Sentiment Analyzer using ML on IMDB Reviews Dataset
+Sentiment Analyzer with ML(Python) using IMBD REVIEWS DATASET
