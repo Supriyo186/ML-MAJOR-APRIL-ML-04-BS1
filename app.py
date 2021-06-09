@@ -7,3 +7,4 @@ op = model.predict([ip])
 if st.button('Predict'):
   st.write('RESULT:')
   st.title('Predicted Sentiment : '+op[0])
+  
